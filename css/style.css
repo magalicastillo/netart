@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+body {
+  max-width: 1500px;
+  background-image: url("/images/sugarskull2.jpg");
+  text-align: center;
+}
+
+
+h1{
+  color: white;
+  font-Size: 22pt;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2{
+  color: white;
+  font-Size: 50pt;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h3{
+  color: white;
+  font-Size: 30pt;
+  font-family: 'Press Start 2P', cursive;
+  text-decoration: underline;
+}
+
+h4{
+  color: white;
+  font-Size: 30pt;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h5{
+  color: white;
+  font-Size: 50pt;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h6{
+  color: white;
+  font-Size: 40pt;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#one{
+  background-color: #F5BAB7;
+  margin-top: 75px;
+}
+
+#two{
+  background-color: #F5BAB7;
+  margin-top: 75px;
+}
+
+#three{
+  margin-top: 200px;
+}
+
+#four{
+  margin-top: 350px;
+}
+
+#five{
+  margin-top: 150px;
+}
+
+#six{
+  margin-left: 25px;
+  margin-right: 400px;
+  float: right;
+}
+
+#seven{
+  float: left;
+  margin-left: 400px;
+  margin-right: 25px;
+}
+
+#eight{
+  background-color: #F5BAB7;
+  float: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+
+a{
+  color: white;
+  text-decoration: none;
+}
+a:Hover{
+  color: cyan;
+  text-decoration: underline;
+}
